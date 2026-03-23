@@ -38,6 +38,3 @@ In each script, update save_dir to your project folder:
 
 save_dir = "C:/your/path/here"
 
-
-README.md         — this file
-
